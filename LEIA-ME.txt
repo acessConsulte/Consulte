@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL - 62.150.262 Josiele da Silva Farias Messias
+
+Arquivos:
+- index.html: página principal
+- sobre.html: informações institucionais
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/style.css: estilos personalizados
+- assets/: imagens fornecidas para o site
+
+COMO VISUALIZAR
+1. Extraia todos os arquivos do ZIP para uma pasta.
+2. Abra index.html no navegador.
+3. Mantenha a pasta assets junto dos arquivos HTML para que as imagens e os estilos funcionem.
+
+TECNOLOGIAS
+HTML5, CSS personalizado, Bootstrap 5.3.3 e Bootstrap Icons via CDN. A conexão com a internet é necessária para carregar as bibliotecas externas.
+
+PUBLICAÇÃO
+Envie todos os arquivos e a pasta assets para a hospedagem, mantendo a estrutura. Configure index.html como página inicial. Antes de publicar, confira os dados da empresa, teste os links e revise os textos legais com orientação profissional. Se instalar Google Analytics, tags do Google Ads, formulários ou cookies de marketing, atualize a Política de Privacidade e implemente os avisos/consentimentos aplicáveis.
+
+Nota: “Sabor & Rua” é usado como título visual do site; a razão social informada aparece nos dados institucionais e no rodapé. As imagens são ilustrativas.
